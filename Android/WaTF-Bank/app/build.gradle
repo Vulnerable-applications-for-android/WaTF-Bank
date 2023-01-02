@@ -1,8 +1,9 @@
 apply plugin: 'com.android.application'
 
 android {
-     lintOptions {
-    abortOnError false
+    lintOptions {
+        abortOnError false
+    }
     compileSdkVersion 27
     defaultConfig {
         applicationId "com.WaTF.WaTFBank"
