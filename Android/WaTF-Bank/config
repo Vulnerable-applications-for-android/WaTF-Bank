@@ -4,3 +4,6 @@
 	bare = true
 	logallrefupdates = false
 	precomposeunicode = true
+[remote "shivam"]
+	url = git@github.com:i-shivamsoni/WaTF-Bank.git
+	fetch = +refs/heads/*:refs/remotes/shivam/*
