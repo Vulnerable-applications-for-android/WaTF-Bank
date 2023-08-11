@@ -59,5 +59,5 @@ docker run -d -p 5000:5000 --name watfbank -i -t watfteam/watfbank
 
 ## License
 This project is using the MIT License.
-
+ 
 Copyright (c) 2018 WaTF-Team
